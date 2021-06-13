@@ -9,7 +9,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'BasicDesignSDK'
-  s.version          = '0.0.1'
+  s.version          = '1.0.0'
   s.summary          = 'Project intial extension , customviews using  BasicDesignSDK.'
   s.swift_version = '5'
   
